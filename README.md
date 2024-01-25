@@ -1,4 +1,6 @@
-- 👋 welcome to my GitHub Page. I am Carrie Huang and now Public Health student.
+👋 welcome to my GitHub Page. 
+I am Carrie Huang, a student at the School of Public Health, The University of Hong Kong.
+
 - Kiddivax Script is related to the titer protection analysis for the KiddivaxMain pediatric vaccine trial.
 - KiddivaxMain_JID_titerprot_scripts: https://github.com/carriehuangjy/Kiddivax_scripts/tree/main/KiddivaxMain_JID_titerprot_scripts
 - KiddivaxMain_PIDJ_antibody_scripts: https://github.com/carriehuangjy/Kiddivax_scripts/tree/main/KiddivaxMain_PIDJ_antibody_scripts
