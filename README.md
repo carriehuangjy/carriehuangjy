@@ -3,7 +3,7 @@ I am Carrie Huang, a student at the School of Public Health, The University of H
 
 # Kiddivax Scripts
 
-[Influenza_Antibody_Titers](https://academic.oup.com/jid/article/208/8/1320/2193380) contains the source code for the research paper titled "Estimation of the association between antibody titers and protection against confirmed influenza virus infection in children" by Ng et al published in the Journal of Infectious Disease in 2013.
+[Influenza_Antibody_Titers]([https://academic.oup.com/jid/article/208/8/1320/2193380](https://github.com/carriehuangjy/Kiddivax_study/tree/main/Main_study/Humoral_Antibody_Response)) contains the source code for the research paper titled "Estimation of the association between antibody titers and protection against confirmed influenza virus infection in children" by Ng et al published in the Journal of Infectious Disease in 2013.
 
 [Humoral_Antibody_Response](https://journals.lww.com/pidj/fulltext/2012/09000/humoral_antibody_response_after_receipt_of.24.aspx) contains an R script for processing and reformatting raw data related to the humoral antibody response after receipt of inactivated seasonal influenza vaccinations one year apart in children. 
 
