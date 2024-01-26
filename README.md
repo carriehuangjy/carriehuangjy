@@ -1,7 +1,7 @@
 👋 welcome to my GitHub Page. 
 I am Carrie Huang, a student at the School of Public Health, The University of Hong Kong.
 
-# Kiddivax Scripts
+# Kiddivax Study
 
 [Influenza_Antibody_Titers](https://github.com/carriehuangjy/Kiddivax_study/tree/main/Main_study/Influenza_Antibody_Titers) contains the source code for the research paper titled "Estimation of the association between antibody titers and protection against confirmed influenza virus infection in children" by Ng et al published in the Journal of Infectious Disease in 2013.
 
